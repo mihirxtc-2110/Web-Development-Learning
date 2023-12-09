@@ -34,23 +34,3 @@ console.log(fruits);
 // adding multiple items without replacing items in array
 fruits.splice(2, 0, "strawberry", "kiwi")
 console.log(fruits);
-
-// objects
-
-let smith = {
-    name: "Steve Smith",
-    age: 29,
-    nationality: "austrilian",
-    education: [
-        {
-            degree: "Becholors in Sports",
-            University: "UC Canbara",
-        },
-        {
-            degree: "Masters in Sports",
-            University: "UC Sydney",
-        },
-    ],
-};
-// console.log(smith);
-// console.log(smith.education)
