@@ -47,8 +47,9 @@ p {
 
 .btn {
     padding: 16px 30px;
+    font-size: 0.5em;
     border: none;
     border-radius: 12px;
-    font-size: 0.5em;
+    outline: none;
     cursor: pointer;
 }
